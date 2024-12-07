@@ -28,7 +28,7 @@
 
 ![Demo Screenshot](http://asiawideexpress.com/wp-content/uploads/2024/12/a-banner-with-writings-Figma-to-Web-.-add-figma-and-react-and-next-js-logo.jpg)
 
-You can also view a live demo [here](figmatowebapp.netlify.app).
+You can also view a live demo [here](https://figmatowebapp.netlify.app).
 
 ## Installation
 
